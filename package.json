@@ -1,5 +1,5 @@
 {
-  "name": "merge-sort",
+  "name": "mergesort-dllr",
   "version": "1.0.0",
   "description": "Practicing recursion",
   "main": "mergeSort.js",
