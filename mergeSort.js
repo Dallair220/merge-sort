@@ -41,4 +41,3 @@ export default function mergeSort(arr) {
 const sort = [
   6, 3, 7, 5, 8, 1, 2, 5, 6, 23, 5, 0, 9, 2, 5, 23, 52, 32, 64, 2, 143, 34,
 ];
-console.log(mergeSort(sort));
