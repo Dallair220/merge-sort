@@ -1,0 +1,21 @@
+{
+  "name": "merge-sort",
+  "version": "1.0.0",
+  "description": "Practicing recursion",
+  "main": "mergeSort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dallair220/merge-sort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Dallair220/merge-sort/issues"
+  },
+  "homepage": "https://github.com/Dallair220/merge-sort#readme"
+}
