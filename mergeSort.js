@@ -26,7 +26,7 @@ function merge(leftArray, rightArray) {
   return merged;
 }
 
-function mergeSort(arr) {
+export default function mergeSort(arr) {
   if (arr.length < 2) return arr;
 
   let mid = arr.length / 2;
